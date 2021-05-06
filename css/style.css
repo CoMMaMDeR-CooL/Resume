@@ -1,0 +1,224 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f7fa;
+  padding: 40px 20px;
+  font-family: Montserrat;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.general {
+  background-color: #fff;
+  display: flex;
+}
+/*-----------SideBar---------*/
+.sidebar {
+  background-color: #019794;
+
+  width: 370px;
+  padding: 40px 0 40px 0;
+}
+.photo {
+  width: 370px;
+}
+.contacts {
+  margin: 60px 40px 0 40px;
+}
+.contacts_h {
+  line-height: 24px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.contacts_link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #434c5a;
+}
+.C_E {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 10px;
+}
+/*-------------TechSkills------------*/
+.tech-skills {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.tech-skills-h3 {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  line-height: 24px;
+}
+.tech-skill-list {
+  color: #969ba3;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #88be32;
+}
+.tech-skill-text {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+}
+/*-------------SoftSkills--------------*/
+.soft-skills {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.soft-skills-h {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  line-height: 24px;
+}
+.soft-skill-text {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+}
+.soft-skills-list {
+  color: #969ba3;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #88be32;
+}
+/*-------------End of SideBar-------------------*/
+.me {
+  padding: 110px 90px;
+}
+.me h2 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 23px;
+}
+.me h1 {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+  margin-bottom: 23px;
+}
+.goal {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  margin-top: 24px;
+}
+.mistake {
+  margin-bottom: 65px;
+}
+/*---------------Projects-----------*/
+.projects {
+  margin-bottom: 55px;
+}
+.title-h {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.project-link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.project-text {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.project-list {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.dots {
+  width: 318px;
+  height: 1px;
+  font-weight: 100;
+}
+/*-------------1WorkExp-----------*/
+
+.first-w {
+  margin-bottom: 24px;
+}
+.wp-h {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 14px;
+}
+.company-name {
+  color: #88be32;
+}
+.first-w ul,
+.second-w ul,
+.third-w ul {
+  color: #88be32;
+  margin-top: 20px;
+}
+.work-tasks {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+.work-date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #a8a8a8;
+}
+
+.second-w {
+  margin-bottom: 24px;
+}
+.third-w {
+  margin-bottom: 24px;
+}
+/*-----------Education----------*/
+
+.where {
+  font-size: 16px;
+  font-weight: 700;
+  color: #88be32;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+.who {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
